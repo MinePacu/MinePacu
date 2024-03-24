@@ -1,6 +1,6 @@
 <center>
 
-![Header](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=MinePacu&textBg=false)
+![Header](https://capsule-render.vercel.app/api?type=soft&height=300&color=0:de628c,100:67bddf&text=MinePacu&textBg=false&fontColor=ffffff)
 
 </center>
 
