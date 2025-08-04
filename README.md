@@ -69,7 +69,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/MinePacu/MinePacu/output/snake.svg" alt="Snake animation" />
-
-###
